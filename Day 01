@@ -1,5 +1,6 @@
 Day 01
-Understanding Infrastructure as Code (IaC)
+What is Infrastructure as Code (IaC)
+Process to write the code to provisioned the infrastructure
 
 Why we need IaC
 What is Terraform and its benefits
